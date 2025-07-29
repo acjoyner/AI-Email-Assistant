@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AI Email Assistant ✉️
 
 This is a personal AI assistant that securely connects to your Gmail account. It reads and understands your recent emails, allowing you to ask questions, summarize topics, and find information using a simple chat interface built with Streamlit.
@@ -103,4 +102,3 @@ A new tab will open in your browser with the application.
 =======
 # AI-Email-Assistant
 This is a personal AI Email Assistant that securely connects to your Gmail account. It reads and understands your recent emails, allowing you to ask questions, summarize topics, and find information using a simple chat interface.
->>>>>>> 3de7b0a276bef229befa5adfacd905ebccd92919

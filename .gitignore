@@ -1,0 +1,26 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Environment variables
+.env
+
+# Google Cloud credentials and tokens
+credentials.json
+token.json
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+
+# ChromaDB local database
+chroma_db/

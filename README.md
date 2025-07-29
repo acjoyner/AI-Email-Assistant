@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Email Assistant ✉️
 
 This is a personal AI assistant that securely connects to your Gmail account. It reads and understands your recent emails, allowing you to ask questions, summarize topics, and find information using a simple chat interface built with Streamlit.
@@ -99,3 +100,7 @@ A new tab will open in your browser with the application.
 * Your Google `credentials.json` and `token.json` are stored locally and are not committed to Git (thanks to the `.gitignore` file).
 * Your email data is indexed and stored locally in the `chroma_db` folder, which is also ignored by Git.
 * Your API key is stored locally in the `.env` file, also ignored by Git.
+=======
+# AI-Email-Assistant
+This is a personal AI Email Assistant that securely connects to your Gmail account. It reads and understands your recent emails, allowing you to ask questions, summarize topics, and find information using a simple chat interface.
+>>>>>>> 3de7b0a276bef229befa5adfacd905ebccd92919
